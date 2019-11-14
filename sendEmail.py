@@ -20,9 +20,9 @@ with open(file, "r", encoding="ISO-8859-1") as csv_file:
         to_addr =line[1]
 
 
-from_addr = '704362718@qq.com'
+from_addr = '304951371@qq.com'
 #邮箱的授权码
-password = 'kgybryimllmmbcgh'
+password = 'utkbnkaaatrhcadf'
 
 print('recevier:' + to_addr)
 #邮箱服务器地址
